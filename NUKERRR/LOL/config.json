@@ -1,14 +1,22 @@
 {
   "token": "MTEyMzkyMzkwODM0OTkzOTgwNQ.Gnorfn.RA0BkH6UXvriEFBsXQW2OGj12WHbGYHsEq3QvY",
-  "prefix": "?",
-  "owners": [
-    881189219102515211
-  ],
-  "whitelistbool": true,
-  "activity": {
-    "type": "playing",
-    "text": "CYBER NUKER v",
-    "isenabled": true
-  },
-  "discordlogging": false
+  "proxy": false,
+  "nuke" :{
+       "channels_name": [
+            "Cyber runs cord",
+            "Got you bitch",
+            "wizzed by Cyber",
+            "beamed",
+       ],
+       "roles_name": [
+           "wizzed by cyber",
+           "cyber owns you",
+           "cyber runs you",
+       ],
+         "messages_content": [
+             "@everyone @here Cyber owns you",
+             "@everyone @here Attacker runs you",
+             "@everyone @here Cyber on top",                
+         ],
+   }
 }
